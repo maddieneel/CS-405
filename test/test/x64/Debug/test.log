@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\neelm\source\repos\test\test\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\neelm\source\repos\test\test\test.cpp(136,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\neelm\source\repos\test\test\test.cpp(149,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\neelm\source\repos\test\test\test.cpp(162,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\neelm\source\repos\test\test\test.cpp(191,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\neelm\source\repos\test\test\test.cpp(192,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\neelm\source\repos\test\test\test.cpp(209,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  test.vcxproj -> C:\Users\neelm\source\repos\test\x64\Debug\test.exe

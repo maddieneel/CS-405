@@ -1,0 +1,268 @@
+﻿  NumericOverflows.cpp
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(107,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(222): message : see reference to function template instantiation 'void test_overflow<float>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(110,14): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(120,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(123,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(126,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(107,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(223): message : see reference to function template instantiation 'void test_overflow<double>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(110,14): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(120,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(123,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(126,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(107,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(224): message : see reference to function template instantiation 'void test_overflow<long double>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(110,14): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(120,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(123,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(126,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(170,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(250): message : see reference to function template instantiation 'void test_underflow<float>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(173,14): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(184,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(187,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(190,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=float
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(170,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(251): message : see reference to function template instantiation 'void test_underflow<double>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(173,14): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(184,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(187,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(190,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(170,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(252): message : see reference to function template instantiation 'void test_underflow<long double>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(173,14): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(184,9): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(187,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(190,15): warning C4805: '!=': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=long double
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(30,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(105): message : see reference to function template instantiation 'T add_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(207): message : see reference to function template instantiation 'void test_overflow<char>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(30,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=wchar_t
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(105): message : see reference to function template instantiation 'T add_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=wchar_t
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(208): message : see reference to function template instantiation 'void test_overflow<wchar_t>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(30,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(105): message : see reference to function template instantiation 'T add_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(209): message : see reference to function template instantiation 'void test_overflow<short>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(30,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(105): message : see reference to function template instantiation 'T add_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(215): message : see reference to function template instantiation 'void test_overflow<unsigned char>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(30,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=unsigned short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(105): message : see reference to function template instantiation 'T add_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=unsigned short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(216): message : see reference to function template instantiation 'void test_overflow<unsigned short>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(62,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(168): message : see reference to function template instantiation 'T subtract_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(235): message : see reference to function template instantiation 'void test_underflow<char>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(62,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=wchar_t
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(168): message : see reference to function template instantiation 'T subtract_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=wchar_t
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(236): message : see reference to function template instantiation 'void test_underflow<wchar_t>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(62,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(168): message : see reference to function template instantiation 'T subtract_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(237): message : see reference to function template instantiation 'void test_underflow<short>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(62,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(168): message : see reference to function template instantiation 'T subtract_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(243): message : see reference to function template instantiation 'void test_underflow<unsigned char>(void)' being compiled
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(62,24): warning C4244: '=': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=unsigned short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(168): message : see reference to function template instantiation 'T subtract_numbers<T>(const T &,const T &,const unsigned long &)' being compiled
+          with
+          [
+              T=unsigned short
+          ]
+C:\Users\neelm\source\repos\NumericOverflows\NumericOverflows\NumericOverflows.cpp(244): message : see reference to function template instantiation 'void test_underflow<unsigned short>(void)' being compiled
+  NumericOverflows.vcxproj -> C:\Users\neelm\source\repos\NumericOverflows\x64\Debug\NumericOverflows.exe
